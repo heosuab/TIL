@@ -1,4 +1,4 @@
-# Analysis Dataset for Kaggle Competition
+# Dataset Analysis for Kaggle Competition
 
 > Open Source Software 수업의 assignment를 위해 새로 작성된 글이며, 2021/07에 참여한 Kaggle Competition의 데이터 분석 과정을 Markdown으로 작성(연습용)한 글입니다.
 
